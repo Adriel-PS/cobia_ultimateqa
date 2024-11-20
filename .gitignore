@@ -1,0 +1,5 @@
+node_modules  
+cypress/screenshots/ # Prints feitos pelo Cypress
+cypress/videos/      # Vídeos de gravações de testes
+cypress/downloads
+package-lock.json
